@@ -1,0 +1,20 @@
+.student-owner{
+    background-color: rgb(126, 223, 255);
+    display: block;
+    width: 500px;
+    height:300px;
+    margin:0,auto;
+}
+
+.student-contributor{
+    background-color: lightgray;
+    width: 500px;
+    height:300px;
+    margin:0,auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
